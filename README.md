@@ -1,3 +1,3 @@
 Импорт данных: Main([List])  
-Экспорт данных Main().export_tv()
+Экспорт данных Main([List]).export_tv()
 # table-pyqt
