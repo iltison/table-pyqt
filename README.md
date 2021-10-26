@@ -1,7 +1,8 @@
 готовая pyqt таблица для проектов.  
 text + combobox  
 Импорт данных: Main([List])  
-Экспорт данных Main([List]).export_tv()
+Экспорт данных Main([List]).export_tv()  
+  
 Встривание в MainWindow:  
 
   from Main import new_table_example   
